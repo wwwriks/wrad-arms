@@ -38,6 +38,11 @@ Completely free, forever. No attribution required.
 
 ---
 
+### CREDITS & THANKS
+* [**SaintPesticide**](https://twitter.com/SaintPestic1de) - Feedback & Testing
+* [**Royalty3D**](https://twitter.com/royalty3D) - Feedback, Testing & Dark Skin Texture
+* **Ch4bby** - Quality Assurance
+
 ### MY BELOVED SUPPORTERS
 A huge thank you to those who make these free assets possible:
 > Algvees, Robin, Morgan!, ADC AX, Twash, goatman, DJBillybool, HeadphoneEnjoyer, Ben Cummings, NA DANG, MrEliptik, luke
