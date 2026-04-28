@@ -1,8 +1,10 @@
 # WRAD ARMS
 ### Low Poly FPS Viewmodel Arms | CC0 License
 
-![License: CC0](https://img.shields.io/badge/License-CC0-green.svg)
-![Format: GLB/FBX/OBJ](https://img.shields.io/badge/Formats-GLB%20%7C%20FBX%20%7C%20OBJ-blue)
+[![Patreon](https://img.shields.io/badge/Patreon-Support_Me-orange?style=for-the-badge&logo=patreon)](https://www.patreon.com/wriks)
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-Support_Me-red?style=for-the-badge&logo=ko-fi)](https://ko-fi.com/wriks)
+[![Website](https://img.shields.io/badge/Website-wriks.motorcycles-blue?style=for-the-badge&logo=google-chrome)](https://www.wriks.motorcycles)
+[![Twitter](https://img.shields.io/badge/Twitter-@wriks-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/wriks)
 
 **WRAD ARMS** are free, CC0-licensed low poly FPS viewmodel arms inspired by the **Half-Life 1 / GoldSource** aesthetic. These arms are fully rigged and ready for immediate implementation in **Godot, Unity, Unreal Engine, and Blender**.
 
