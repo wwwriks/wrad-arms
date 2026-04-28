@@ -1,6 +1,7 @@
 # WRAD ARMS
 ### Low Poly FPS Viewmodel Arms | CC0 License
 
+![Format: GLB/FBX/OBJ](https://img.shields.io/badge/Formats-GLB%20%7C%20FBX%20%7C%20OBJ-blue)
 [![Patreon](https://img.shields.io/badge/Patreon-Support-orange?style=flat&logo=patreon)](https://www.patreon.com/wriks)
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-Donate-red?style=flat&logo=ko-fi)](https://ko-fi.com/wriks)
 [![Website](https://img.shields.io/badge/Website-wriks.motorcycles-blue?style=flat&logo=google-chrome)](https://www.wriks.motorcycles)
